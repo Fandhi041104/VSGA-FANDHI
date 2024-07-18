@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiMobile_Fandhi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/biru</item>
+    </style>
+
+    <style name="Theme.AplikasiMobile_Fandhi" parent="Base.Theme.AplikasiMobile_Fandhi" />
+</resources>

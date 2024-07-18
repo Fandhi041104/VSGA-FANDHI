@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi Mobile_Fandhi</string>
+    <string name="Lbl_Nama">Masukkan Nama Anda</string>
+    <string name="Btn_Tampil_Nama">Tampilkan</string>
+</resources>
