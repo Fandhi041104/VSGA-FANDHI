@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AplikasiKalkulator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/hijau</item>
+    </style>
+
+    <style name="Theme.AplikasiKalkulator" parent="Base.Theme.AplikasiKalkulator" />
+</resources>
